@@ -1,0 +1,21 @@
+h1,
+h2 {
+  background-color: black;
+  color: white;
+  padding: 5px 20px;
+  width: 1000px;
+}
+
+p {
+  text-align: justify;
+  padding: 5px 20px;
+  width: 1000px;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a:hover {
+  color: red;
+}
